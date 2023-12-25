@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="https://arbyusuf.github.io/testing-aboutme/style.css">
     <div class="profile-picture">
  <p align="center"><img src="https://avatars.githubusercontent.com/u/154565526?v=4" alt="Profile Picture"><p>
 
@@ -19,7 +18,12 @@
     </a>
   </p>
 </p>
-
+<style>
+.profile-picture img {
+  border: 2px solid black;
+  border-radius: 50%;
+}
+<style>
 <h2 align="center">Stats</h2>
 
 
