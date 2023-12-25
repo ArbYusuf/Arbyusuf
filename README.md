@@ -1,23 +1,6 @@
 
-   <center> <div class="profile-picture">
-        <img src="https://avatars.githubusercontent.com/u/154565526?v=4" alt="Profile Picture">
-    </div></center>
-
-
-<style>
-    .profile-picture {
-        width: 150px;
-        height: 150px;
-        border-radius: 50%;
-        overflow: hidden;
-    }
-
-    .profile-picture img {
-        width: 100%;
-        height: 100%;
-        object-fit: cover;
-    }
-</style>
+   
+       <center><img src="https://avatars.githubusercontent.com/u/154565526?v=4" alt="Profile Picture"></center>
 
 <h1 align="center">ArbYusuf</h1>
 <br>
