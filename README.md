@@ -1,8 +1,8 @@
-<center>
-    <div class="profile-picture">
+
+   <center> <div class="profile-picture">
         <img src="https://avatars.githubusercontent.com/u/154565526?v=4" alt="Profile Picture">
-    </div>
-</center>
+    </div></center>
+
 
 <style>
     .profile-picture {
