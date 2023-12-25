@@ -1,5 +1,4 @@
-    <div class="profile-picture">
- <p align="center"><img src="https://avatars.githubusercontent.com/u/154565526?v=4" alt="Profile Picture"><p>
+<div class="profile-picture"><img src="https://avatars.githubusercontent.com/u/154565526?v=4" alt="Profile Picture">
 
 <h1 align="center">ArbYusuf</h1>
   <br>
