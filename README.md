@@ -1,4 +1,6 @@
-<p align="center"><img src="https://avatars.githubusercontent.com/u/154565526?v=4" width="200px"/></p>
+<link rel="stylesheet" href="https://arbyusuf.github.io/testing-aboutme/style.css">
+    <div class="profile-picture">
+ <p align="center"><img src="https://avatars.githubusercontent.com/u/154565526?v=4" alt="Profile Picture"><p>
 
 <h1 align="center">ArbYusuf</h1>
   <br>
