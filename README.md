@@ -1,6 +1,5 @@
+<p align="center"><img src="https://avatars.githubusercontent.com/u/154565526?v=4" width="200px"/></p>
 
-   
-       <center><img src="https://avatars.githubusercontent.com/u/154565526?v=4" alt="Profile Picture"></center>
 
 <h1 align="center">ArbYusuf</h1>
 <br>
